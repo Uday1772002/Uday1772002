@@ -17,36 +17,31 @@
 
 ### 🛠️ Tech Stack
 
-#### 👨‍💻 Frontend:
 <p>
+  <strong>👨‍💻 Frontend:</strong>&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-</p>
-
-#### 🔧 Backend & DevOps:
-<p>
+  &nbsp;&nbsp; <strong>🔧 Backend:</strong>&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
 </p>
 
-#### 🗄️ Database:
 <p>
+  <strong>🗄️ Database:</strong>&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-</p>
-
-#### 🛠️ Tools:
-<p>
+  &nbsp;&nbsp; <strong>⚙️ Tools:</strong>&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
 </p>
+
 
 
 ### 📌 Pinned Projects
