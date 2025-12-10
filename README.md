@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer from India  
 📧 [jayaramuday17@gmail.com](mailto:jayaramuday17@gmail.com)  
-🔗 [Portfolio / Resume](https://jayudayportfolio.netlify.app/)
+🔗 [Portfolio / Resume](https://uday-devhub.vercel.app/)
 
 ---
 
