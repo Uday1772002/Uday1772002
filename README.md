@@ -1,58 +1,82 @@
-# 👋 Hi, I'm Jayaram Uday
+<div align="center">
+  <h1>👋 Hey there, I'm Jayaram Uday</h1>
+  <p><strong>Full Stack Developer | Backend Enthusiast | Problem Solver</strong></p>
 
-**Full Stack Developer from India**  
-📧 jayaramuday17@gmail.com · 🔗 [Portfolio](https://uday-devhub.vercel.app/)
-
----
-
-## 💼 About Me
-
-I build fast, responsive, and scalable web applications with a focus on clean architecture. Currently exploring advanced backend systems and system design.
-
-- 🔍 Actively seeking Full Stack Developer roles
-- 💻 Strong foundation in MERN stack and modern web technologies
-- 🚀 Open to opportunities in backend-heavy or full-stack positions
+  <a href="https://uday-devhub.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-4285F4?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/jayaramuday"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:jayaramuday17@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
+I build fast, scalable web applications with clean architecture. Currently, I am specializing in **System Design** and **Microservices** while seeking impactful Full Stack opportunities.
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-
-**Database**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+* 💻 **Tech Focus:** MERN Stack, REST APIs, and Cross-Platform Mobile (Flutter).
+* 🌱 **Learning:** Advanced Backend Architecture and Distributed Systems.
+* 👯 **Open to:** Open-source collaborations and production-ready MERN projects.
+* 📍 **Location:** India | ⚡ **Fun Fact:** I turn coffee into code ☕→💻
 
 ---
 
-## 📌 Featured Projects
-
-🔹 **[ThinkFast](https://github.com/Uday1772002/ThinkFast)** — Quiz application built for speed and accuracy  
-🔹 **[BudgetBee](https://github.com/Uday1772002/BudgetBee)** — Expense tracker with intuitive UI  
-
-View more projects in my repositories →
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayaramuday)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayaramuday17@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://uday-devhub.vercel.app/)
+### 💻 Tech Arsenal
+<div align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</div>
 
 ---
 
-> *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+### 📊 GitHub Insights
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uday1772002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday1772002&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uday1772002&theme=tokyonight&hide_border=true" width="89%" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🎯 Featured Projects
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">ThinkFast 🧠</h3>
+      <p align="center">Real-time quiz app built for speed. Optimized for low-latency scoring.</p>
+      <div align="center">
+        <a href="https://github.com/Uday1772002/ThinkFast">
+          <img src="https://img.shields.io/badge/View_Repo-black?style=flat-square&logo=github" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">BudgetBee 💰</h3>
+      <p align="center">Smart expense tracker with intuitive data visualization and budget management.</p>
+      <div align="center">
+        <a href="https://github.com/Uday1772002/BudgetBee">
+          <img src="https://img.shields.io/badge/View_Repo-black?style=flat-square&logo=github" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday1772002&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+<div align="center">
+  <p><em>"Code is like humor. When you have to explain it, it's bad."</em> – Cory House</p>
+  <img src="https://komarev.com/ghpvc/?username=Uday1772002&color=blueviolet&style=flat-square&label=Profile+Views" />
+</div>
